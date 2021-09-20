@@ -27,22 +27,54 @@ terraform destroy
 
 ![Alt text](screenshots/SilverDisplay.png?raw=true "Title")
 
-## Make gold stream with number of distinct hotels and average/max/min temperature in the city.
+## Create table with data
 
-![Alt text](screenshots/GoldDistinctAndTmprStream.png?raw=true "Title")
+![Alt text](screenshots/CreateTable.png?raw=true "Title")
 
-## Display gold stream
-
-![Alt text](screenshots/GoldDistinctAndTmprDisplay.png?raw=true "Title")
-
-## Create gold table for next query, because "Non-time-based windows are not supported on streaming DataFrames/Datasets"
-
-![Alt text](screenshots/GoldTable.png?raw=true "Title")
-
-## 10 biggest cities
+## Top 10
 
 ![Alt text](screenshots/Top10.png?raw=true "Title")
 
-## gold files in azure data storage
+## Top 10 by all time
 
-![Alt text](screenshots/AzureStorageGold.png?raw=true "Title")
+![Alt text](screenshots/Top10JoinData.png?raw=true "Title")
+
+## Paris
+
+![Alt text](screenshots/Paris.png?raw=true "Title")
+
+## London
+
+![Alt text](screenshots/London.png?raw=true "Title")
+
+## Barcelona
+
+![Alt text](screenshots/Barcelona.png?raw=true "Title")
+
+## Milan
+
+![Alt text](screenshots/Milan.png?raw=true "Title")
+
+## Amsterdam
+
+![Alt text](screenshots/Amsterdam.png?raw=true "Title")
+
+## Paddington
+
+![Alt text](screenshots/Paddington.png?raw=true "Title")
+
+## San Diego
+
+![Alt text](screenshots/San_Diego.png?raw=true "Title")
+
+## New York
+
+![Alt text](screenshots/New_York.png?raw=true "Title")
+
+## Vienna
+
+![Alt text](screenshots/Vienna.png?raw=true "Title")
+
+## Memphis
+
+![Alt text](screenshots/Memphis.png?raw=true "Title")
